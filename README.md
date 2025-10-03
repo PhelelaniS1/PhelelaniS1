@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhelelaniS1
 - 👀 I’m interested in DevOps and SysOps
-- 🌱 I’m currently learning AWS Cloud Computing at ALX
+- 🌱 AWS Cloud Computing 
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me https://www.linkedin.com/in/phelelanisithole/
 - 😄 Pronouns: ...
